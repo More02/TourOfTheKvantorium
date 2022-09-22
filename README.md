@@ -6,13 +6,13 @@
 ---
 
 # Images
-<img src="images/Kvant.png" width = 900/>
-<img src="images/VRKvantum.png" width = 900/>
-<img src="images/AirKvantum.png" width = 900/>
-<img src="images/Energy.png" width = 900/>
-<img src="images/HighTech.png" width = 900/>
-<img src="images/PromDesign.png" width = 900/>
-<img src="images/Teachers.png" width = 900/>
+<img src="Images/Kvant.png" width = 900/>
+<img src="Images/VRKvantum.png" width = 900/>
+<img src="Images/AirKvantum.png" width = 900/>
+<img src="Images/Energy.png" width = 900/>
+<img src="Images/HighTech.png" width = 900/>
+<img src="Images/PromDesign.png" width = 900/>
+<img src="Images/Teachers.png" width = 900/>
 
 
 ---
