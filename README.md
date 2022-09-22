@@ -7,7 +7,7 @@
 
 # Images
 <img src="Images/Kvant.png" width = 900/>
-<img src="Images/VRKvantum.png" width = 900/>
+<img src="Images/VRKvantum.jpg" width = 900/>
 <img src="Images/AirKvantum.png" width = 900/>
 <img src="Images/Energy.png" width = 900/>
 <img src="Images/HighTech.png" width = 900/>
